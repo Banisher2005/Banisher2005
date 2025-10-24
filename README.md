@@ -11,3 +11,13 @@ Hi there 👋 I'm Abhinav Kumar
 🧠 I focus on logic, learning, and creativity, whether it’s in code or design.
 
 ⚡ Fun fact: I’d rather spend time perfecting something small than using a shortcut.
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Banisher2005&show_icons=true&theme=tokyonight)
+
+## 🔤 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Banisher2005&layout=compact&theme=tokyonight)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-@abhinavk_1870-pink)](https://instagram.com/abhinavk_1870)
+
