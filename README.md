@@ -13,7 +13,7 @@ Hi there 👋 I'm Abhinav Kumar
 ⚡ Fun fact: I’d rather spend time perfecting something small than using a shortcut.
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Banisher2005&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Banisher2005&show_icons=true&theme=ciara)
 
 ## 🔤 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Banisher2005&layout=compact&theme=tokyonight)
