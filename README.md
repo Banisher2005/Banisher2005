@@ -18,6 +18,7 @@ Hi there 👋 I'm Abhinav Kumar
 ## 🔤 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Banisher2005&layout=compact&theme=tokyonight)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20Kumar-blue)](https://www.linkedin.com/in/abhinav-kumar)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@abhinavk_1870-pink)](https://instagram.com/abhinavk_1870)
+
 
