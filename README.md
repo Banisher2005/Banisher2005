@@ -29,7 +29,6 @@ focus:
   - Machine Learning
   - Full Stack Systems
   - UI/UX
-  - Startup MVPs
 ```
 
 ---
@@ -76,13 +75,12 @@ focus:
   </a>
 </div>
 
----
-
 ## Achievement Shelf
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Banisher2005&theme=tokyonight&no-frame=true&row=1&column=7"/>
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Banisher2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"
+      alt="GitHub trophies"
+    />
   </a>
-</div>
-
----
+</p>
