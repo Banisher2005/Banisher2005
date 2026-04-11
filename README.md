@@ -78,15 +78,6 @@ focus:
 
 ---
 
-## Contribution Snake Game
-<p align="center">
-  <a href="https://github.com/Banisher2005">
-    <img src="https://raw.githubusercontent.com/Banisher2005/Banisher2005/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-  </a>
-</p>
-
----
-
 ## Achievement Shelf
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
